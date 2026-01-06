@@ -56,5 +56,8 @@
   },
   "dependencies": {
     "@devlikeapro/n8n-openapi-node": "^0.1.4"
+  },
+  "overrides": {
+    "form-data": "4.0.4"
   }
 }
